@@ -1,0 +1,35 @@
+_repo: Evangeline--A-Tale-of-Acadie_2039
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Longfellow, Henry Wadsworth
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '16'
+    url: http://www.gutenberg.org/2009/agents/16
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+description: Longfellow's Evangeline comes from a true story. The tale of young Emmeline
+  Labiche and the true love of her life, Louis Arceneaux. The pair were separated
+  when the British invaded Nova Scotia in 1755, and Louis (Gabriel in the poem) was
+  forced on a ship and set out to sea. Orphaned, Emmeline was adopted by the family
+  of the Widow Borda, who regarded her as not of this earth, but rather as their guardian
+  angel, and this is why they called her no longer Emmeline, but Evangeline, or God's
+  little angel. The family was exiled to Maryland, but Maryland was no home for them;
+  and eventually the family joined other Acadians in Louisiana. In Louisiana, Evangeline
+  began to search for Louis.
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+- !lcsh 'Acadians -- Poetry'
+- GITenberg
+title: 'Evangeline: A Tale of Acadie'
+url: http://www.gutenberg.org/ebooks/2039
