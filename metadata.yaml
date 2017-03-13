@@ -1,5 +1,8 @@
 _repo: Evangeline--A-Tale-of-Acadie_2039
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Longfellow, Henry Wadsworth
@@ -17,6 +20,8 @@ description: Longfellow's Evangeline comes from a true story. The tale of young 
   little angel. The family was exiled to Maryland, but Maryland was no home for them;
   and eventually the family joined other Acadians in Louisiana. In Louisiana, Evangeline
   began to search for Louis.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2039#Evangeline--A-Tale-of-Acadie
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2000-01-01'
 gutenberg_type: Text
